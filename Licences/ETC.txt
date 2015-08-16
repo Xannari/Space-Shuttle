@@ -1,0 +1,4 @@
+Engine Thrust Controller 
+a mod for KSP
+no licence found but link to his page:
+https://github.com/HoneyFox/EngineThrustController

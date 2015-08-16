@@ -1,0 +1,5 @@
+BahaSP: by BahamutoD for the animation modules plugin 
+https://github.com/BahamutoD/BDAnimationModules
+
+
+CC-BY-SA https://creativecommons.org/licenses/by-sa/2.0/

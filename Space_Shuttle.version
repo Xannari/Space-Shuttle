@@ -1,0 +1,11 @@
+{
+  "NAME": "Space_Shuttle",
+  "URL": "",
+  "DOWNLOAD": "",
+  "VERSION": "0.1.7.3",
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 4
+  }
+}

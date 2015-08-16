@@ -1,0 +1,13 @@
+Using the pre built shuttle:
+
+fire the first stage at 100% (3 man engines)
+Fire second stage (boosters)
+rotate anti clockwise 90 degrees so the top side of the shuttle is pointing east, the fuel tank west.
+
+pitch eastward slowly, no more than 45 degrees this will place the shuttle un an 'upside down' position
+
+jettison empty boosters, continue to orbit. may require pitching to 90 degrees
+
+flip around to face topside up (like a  normal aircraft) and jettison main tank
+
+finalise orbit using oms engines

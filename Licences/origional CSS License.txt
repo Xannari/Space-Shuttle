@@ -1,0 +1,18 @@
+This mod for Kerbal Space Program origionally released by Dragon01 and the persons listed below. distributed under the license CC-BY-SA 2.0.
+Please read about the license at
+
+https://creativecommons.org/licenses/by-sa/2.0/
+
+before attempting to modify and redistribute it.
+
+Credits: 
+Rocket2guns - Base Shuttle Model
+Tiberion - SSMEs
+Cepheus - Update for 0.18
+Dragon - final configuration, CanadArm reskin
+BobCat - Docking port, CanadArm model and SSRBs
+PCDWolf - Lower SSRB Separation motors
+JordanCox - SSRB decouplers
+EndlessWaves - Engine COM compensator plugin
+Jheriko - Togglable SAS
+Romfarer - Robotic arms plugin
