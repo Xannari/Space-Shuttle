@@ -1,8 +1,8 @@
 {
   "NAME": "Space_Shuttle",
-  "URL": "",
-  "DOWNLOAD": "",
-  "VERSION": "0.1.7.3",
+  "URL": "https://github.com/MrMikeNZ/Space-Shuttle/blob/master/Space_Shuttle.version",
+  "DOWNLOAD": "https://github.com/MrMikeNZ/Space-Shuttle/releases/",
+  "VERSION": "1.7.4",
   "KSP_VERSION": {
     "MAJOR": 1,
     "MINOR": 0,
