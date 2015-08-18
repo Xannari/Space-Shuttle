@@ -1,6 +1,3 @@
-Space Shuttle v 1.7.3
-========================================
-
 Kerbal Space Program Space Shuttle Mod
 
 
@@ -14,12 +11,13 @@ Included
 ****** INSTALLATION ******
 *******************************
 
--	Delete an existing installation (KSP/Gamedata/CSS folder)
--	Place all included folders in this mod directly to you KSP/Gamedata folder
+-	Delete an existing installation (KSP/Gamedata/CSS/ folder)
+-	Delete an existing installation (KSP/Gamedata/Space_Shuttle/ folder)
+-	Place all included folders inside the 'Gamedata' in this mod directly to you KSP/Gamedata folder
 -	Place the Space Shuttle.craft file to your KSP/Ships/VAB folder
 
 Note:
-some of the included mods may be outdated. for example: firespitter has a new version. 
+some of the included mods may be outdated. for example: firespitter may have a new version. 
 if you have these new versions, you dont need to install the included ones.
 
 
