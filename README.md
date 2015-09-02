@@ -1,5 +1,6 @@
 Kerbal Space Program Space Shuttle Mod
 
+All parts created my Mike_NZ are under copyright and are not to be redistributed or modified without permition
 
 ********************************
 ****** DEPENDENCIES ******
